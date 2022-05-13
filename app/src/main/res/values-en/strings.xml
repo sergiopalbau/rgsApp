@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rgs</string>
+    <string name="settings" translatable="false">settings</string>
+    <string name="txtinfo">insert email</string>
+    <string name="et_email">readers email</string>
+    <string name="txtLanguaje">select languaje of card</string>
+    <string name="rb_sp">Spanish</string>
+    <string name="rb_en">English</string>
+    <string name="rb_fr">Francois</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_salir">Exit</string>
+    <string name="btn_next">Next</string>
+</resources>
