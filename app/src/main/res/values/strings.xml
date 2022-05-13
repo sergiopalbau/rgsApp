@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">rgs</string>
+    <string name="settings">settigs</string>
+
+    <string name="txtinfo">Introduzca su email </string>
+    <string name="et_email">Email de Lector </string>
+    <string name="txtLanguaje">Seleccione idioma tarjeta</string>
+
+    <string name="rb_sp">Español</string>
+    <string name="rb_en">Inglés</string>
+    <string name="rb_fr">Francés</string>
+
+    <string name="btn_save">Guardar</string>
+
+
+</resources>
