@@ -11,6 +11,9 @@
     <string name="rb_fr">Francés</string>
 
     <string name="btn_save">Guardar</string>
+    <string name="btn_salir">Salir</string>
+    <string name="btn_next">Siguiente</string>
+
 
 
 </resources>
