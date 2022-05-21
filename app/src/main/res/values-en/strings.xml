@@ -2,8 +2,8 @@
 <resources>
     <string name="app_name">rgs</string>
     <string name="settings" translatable="false">settings</string>
-    <string name="txtinfo">insert email</string>
-    <string name="et_email">readers email</string>
+    <string name="txtinfo">Insert email</string>
+    <string name="et_email">Readers email</string>
     <string name="txtLanguaje">select languaje of card</string>
     <string name="rb_sp">Spanish</string>
     <string name="rb_en">English</string>
@@ -11,4 +11,7 @@
     <string name="btn_save">Save</string>
     <string name="btn_salir">Exit</string>
     <string name="btn_next">Next</string>
+    <string name="txt_rango">Range of cards</string>
+    <string name="et_inicio">Start</string>
+    <string name="et_fin">End</string>
 </resources>
